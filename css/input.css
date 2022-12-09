@@ -1,0 +1,51 @@
+@charset "UTF-8";
+html {
+    font-size: 62.5%;
+    font-family: "M PLUS Rounded 1c"; 
+}
+header {
+    height: 10vh;
+    font-size: 3rem;
+    font-family: "M PLUS Rounded 1c";
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    font-size: 2rem;
+}
+
+.radio {
+    display: flex;
+    justify-content: center;
+}
+.wrapper {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;;
+    flex-direction: column;
+}
+
+#stage {
+    width: 80vw;
+    height: 80vh;
+}
+
+#date_select {
+    width: 300px;
+    font-size: 3rem;
+    margin: auto;
+}
+.select_area {
+    font-family: M+PLUS+1p;
+    margin: auto;
+}
+
+h1 {
+    font-family: "M PLUS Rounded 1c";
+}
+
+.wf-roundedmplus1c { font-family: "M PLUS Rounded 1c"; }
